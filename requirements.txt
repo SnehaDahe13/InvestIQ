@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
+pyjwt
+pydantic[email]
+pandas
+numpy
+scikit-learn
+streamlit
+requests
+plotly
